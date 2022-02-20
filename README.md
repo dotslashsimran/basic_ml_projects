@@ -1,1 +1,1 @@
-# basic_ml_projects
+# Some Basic Machine Learning Projects
